@@ -106,19 +106,19 @@ Background: This agenda serves to outline all pre-development activity for the A
 ### Meeting #2: Defining Acceptance Criteria  
 - **Attendee information**: Tech Lead, Design Lead, Product Manager
 - **Agenda**:  
-- Evaluate each user story and determine the appropriate acceptance criteria for each
+  - Evaluate each user story and determine the appropriate acceptance criteria for each
 - **Next steps:**
   - Identify unknowns, investigate further for clarification
 ---  
 ### Meeting #3: Identify Assumptions, Risks & Critical Dependencies  
 - **Attendee information**: Tech Lead, Design Lead, Product Manager
 - **Agenda**:  
-- Aggregate a list of all current assumptions
+  - Aggregate a list of all current assumptions
   - Aggregate a list of all critical dependencies
     - Identify priorities dictated by these dependencies
   - Aggregate a list of all currently known risks
     - Define risk mitigation strategies for each identified risk
- - **Next steps:**
+- **Next steps:**
   - Identify unknowns, investigate further for clarification
 ---  
 ### Meeting #4: Backlog Refinement  
