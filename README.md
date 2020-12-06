@@ -8,7 +8,7 @@ Background: This agenda serves to outline all pre-development activity for the A
 ## Week 1: Define & Design
 ### Meeting #1: Requirements Definition 
 - **Attendee information**: Tech Lead, Design Lead, Product Owner, Product Manager
-- **Agenda**:  
+- **Expected Outcomes**:  
   - Product owner to review discovery work, outline all requirements  
   - Open questions and discussion of discovery  
 - **Next steps:**
@@ -18,7 +18,7 @@ Background: This agenda serves to outline all pre-development activity for the A
 ---
 ### Meeting #2: Design LOEs  
 - **Attendee information**: Design Lead, Design Team Members
-- **Agenda**:  
+- **Expected Outcomes**: 
   - Design Lead to briefly give overview of discovery findings
   - Design lead to communicate and outline all requirements 
   - Open questions and discussion of requirements
@@ -30,7 +30,7 @@ Background: This agenda serves to outline all pre-development activity for the A
 ---
 ### Meeting #3: Development LOEs  
 - **Attendee information**: Tech Lead, Tech Team Members
-- **Agenda**:  
+- **Expected Outcomes**: 
   - Tech Lead to briefly give overview of discovery findings
   - Tech Lead to communicate and outline all requirements 
   - Open questions and discussion of requirements
@@ -42,7 +42,7 @@ Background: This agenda serves to outline all pre-development activity for the A
 ---
 ### Meeting #4: Review of LOEs  
 - **Attendee information**: Tech Lead, Design Lead, Product Manager
-- **Agenda**:  
+- **Expected Outcomes**: 
   - Tech Lead to communicate LOEs
   - Tech Lead to communicate known assumptions, dependencies and identified risks
   - Design Lead to communicate LOEs
@@ -56,7 +56,7 @@ Background: This agenda serves to outline all pre-development activity for the A
 ---
 ### Meeting #5: All Hands Kick-Off  
 - **Attendee information**: Tech Lead, Tech Team, Design Lead, Design Team, Internal Stakeholders, Product Owner, External Stakeholders, Client, Product Manager
-- **Agenda**:  
+- **Expected Outcomes**: 
   - High Level Project Overview
     - Introduce the goals of the effort
     - Describe the product vision and scope of the effort
@@ -98,21 +98,21 @@ Background: This agenda serves to outline all pre-development activity for the A
 ## Week 2: Implementation
 ### Meeting #1: Writing User Stories  
 - **Attendee information**: Tech Lead, Design Lead, Product Manager
-- **Agenda**:  
+- **Expected Outcomes**: 
   - Evaluate each requirement and break down into the required user stories
 - **Next steps:**
    - Identify unknowns, investigate further for clarification
 ---  
 ### Meeting #2: Defining Acceptance Criteria  
 - **Attendee information**: Tech Lead, Design Lead, Product Manager
-- **Agenda**:  
+- **Expected Outcomes**: 
   - Evaluate each user story and determine the appropriate acceptance criteria for each
 - **Next steps:**
   - Identify unknowns, investigate further for clarification
 ---  
 ### Meeting #3: Identify Assumptions, Risks & Critical Dependencies  
 - **Attendee information**: Tech Lead, Design Lead, Product Manager
-- **Agenda**:  
+- **Expected Outcomes**:   
   - Aggregate a list of all current assumptions
   - Aggregate a list of all critical dependencies
     - Identify priorities dictated by these dependencies
@@ -123,7 +123,7 @@ Background: This agenda serves to outline all pre-development activity for the A
 ---  
 ### Meeting #4: Backlog Refinement  
 - **Attendee information**: Tech Lead, Tech Team, Design Lead, Design Team, Product Owner, Product Manager, other interested stakeholders
-- **Agenda**:  
+- **Expected Outcomes**:  
 - Confirm backlog is exhaustive of current known requirements
   - Review backlog items to ensure each item is:
     - Detailed appropriately
@@ -136,12 +136,16 @@ Background: This agenda serves to outline all pre-development activity for the A
 ---  
 ### Meeting #5: Determine Target Schedule for Delivery  
 - **Attendee information**: Tech Lead,  Design Lead, Product Manager
+- **Expected Outcomes**: 
+  - Align known backlog items with timeline for delivery
 - **Next steps:**
   - Identify unknowns, investigate further for clarification
 ---  
-### Meeting #5: Planning for Sprint 1  
+### Meeting #6: Planning for Sprint 1  
 - **Attendee information**: Tech Lead, Tech Team, Design Lead, Design Team, Product Owner, Product Manager, other interested stakeholders
-- **Agenda**:  
+- **Expected Outcomes**: 
+  - Identify and communicate goal for Sprint 1
+  - Prioritize and align Sprint 1 workload in order to meet specified goal
 - **Next steps:**
   - Identify unknowns, investigate further for clarification
 ---  
