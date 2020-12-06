@@ -124,7 +124,7 @@ Background: This agenda serves to outline all pre-development activity for the A
 ### Meeting #4: Backlog Refinement  
 - **Attendee information**: Tech Lead, Tech Team, Design Lead, Design Team, Product Owner, Product Manager, other interested stakeholders
 - **Expected Outcomes**:  
-- Confirm backlog is exhaustive of current known requirements
+  - Confirm backlog is exhaustive of current known requirements
   - Review backlog items to ensure each item is:
     - Detailed appropriately
     - Estimated accurately
