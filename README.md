@@ -1,7 +1,6 @@
-# AGILE-PM-MM
-Agile PM Candidate Exercise  
+# AGILE-PM-MM: Agile PM Candidate Exercise - Meghan McCrory
 
-Background: This agenda serves to outline all pre-development activity for the Agile PM Candidate Project.
+**Background:** This agenda serves to outline all pre-development activity for the Agile PM Candidate Project.
 
 # Agenda for Sprint 0
 
