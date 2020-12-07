@@ -6,7 +6,7 @@
 
 ## Week 1: Define & Design
 ### Meeting #1: Requirements Definition 
-- **Attendee information**: Tech Lead, Design Lead, Product Owner, Product Manager
+- **Attendee information**: Tech Lead, Design Lead, Product Manager
 - **Expected Outcomes**:  
   - Product owner to review discovery work, outline all requirements  
   - Open questions and discussion of discovery  
@@ -54,7 +54,7 @@
   - PM to aggregate identified risks and dependencies and relay to team at subsequent meeting in week 2
 ---
 ### Meeting #5: All Hands Kick-Off  
-- **Attendee information**: Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, Other Internal Stakeholders, Product Owner, External Stakeholders, Client, Product Manager
+- **Attendee information**: Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, Other Internal Stakeholders, External Stakeholders, Product Manager
 - **Expected Outcomes**: 
   - High Level Project Overview
     - Introduce the goals of the effort
@@ -67,7 +67,7 @@
     - Review any technical and business dependencies
     - Introduce the project sponsor and any key stakeholders
   - Define Team Roles and Responsibilities
-    - Product Manager, Product Owner, UX/UI, Design Team, Technical Team
+    - Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, Product Manager
   - Review/Introduce Agile Methodology
     - Provide review or introduction (dependent upon client/team familiarity) to Agile development
       - Define the values, principles and purpose of Agile
@@ -121,7 +121,7 @@
   - Identify unknowns, investigate further for clarification
 ---  
 ### Meeting #4: Backlog Refinement  
-- **Attendee information**: Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, Product Owner, Product Manager, other interested stakeholders
+- **Attendee information**: Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, Product Manager, other interested stakeholders
 - **Expected Outcomes**:  
   - Confirm backlog is exhaustive of current known requirements
   - Review backlog items to ensure each item is:
@@ -141,7 +141,7 @@
   - Identify unknowns, investigate further for clarification
 ---  
 ### Meeting #6: Planning for Sprint 1  
-- **Attendee information**: Tech Lead, Design Lead, Product Owner, Product Manager, other interested and available stakeholders
+- **Attendee information**: Tech Lead, Design Lead, Product Manager, other interested and available stakeholders
 - **Expected Outcomes**: 
   - Identify and communicate goal for Sprint 1, ensure this aligns with roadmap
   - Prioritize and align Sprint 1 workload to meet specified goal
