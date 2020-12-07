@@ -136,6 +136,8 @@
 ### Meeting #5: Determine Target Schedule for Delivery  
 - **Attendee information**: Tech Lead,  Design Lead, Product Manager
 - **Expected Outcomes**: 
+  - Determine the amount of time required to train and/or retrain end users on new system
+  - Add in the necessary training to delivery timeline
   - Align known backlog items with roadmap and timeline for delivery
 - **Next steps:**
   - Identify unknowns, investigate further for clarification
