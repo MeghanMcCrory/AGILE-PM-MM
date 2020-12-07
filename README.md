@@ -51,7 +51,7 @@
 - **Next steps:**
   - Identify unknowns, investigate further for clarification
   - All Hands Kick-Off to loop in greater teams of processes and expectations
-  - PM to aggregate identified risks and dependencies and relay to team at subsequent meeting in week 2
+  - PM to aggregate identified assumptions, risks and dependencies. Relay to team at kick-off meeting.
 ---
 ### Meeting #5: All Hands Kick-Off  
 - **Attendee information**: Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, Other Internal Stakeholders, External Stakeholders, Product Manager
