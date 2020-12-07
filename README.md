@@ -28,7 +28,7 @@
   - Design Lead to relay LOEs to PM during review meeting
 ---
 ### Meeting #3: Development LOEs  
-- **Attendee information**: Tech Lead, Tech Team Members
+- **Attendee information**: Tech Lead, Frontend Dev, Backend Dev
 - **Expected Outcomes**: 
   - Tech Lead to briefly give overview of discovery findings
   - Tech Lead to communicate and outline all requirements 
@@ -54,7 +54,7 @@
   - PM to aggregate identified risks and dependencies and relay to team at subsequent meeting in week 2
 ---
 ### Meeting #5: All Hands Kick-Off  
-- **Attendee information**: Tech Lead, Tech Team, Design Lead, Design Team, Internal Stakeholders, Product Owner, External Stakeholders, Client, Product Manager
+- **Attendee information**: Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, Other Internal Stakeholders, Product Owner, External Stakeholders, Client, Product Manager
 - **Expected Outcomes**: 
   - High Level Project Overview
     - Introduce the goals of the effort
@@ -96,7 +96,7 @@
 ---  
 ## Week 2: Implementation
 ### Meeting #1: Writing User Stories  
-- **Attendee information**: Tech Lead, Design Lead, Product Manager
+- **Attendee information**: Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, Product Manager
 - **Expected Outcomes**: 
   - Evaluate each requirement and break down into the required user stories
 - **Next steps:**
@@ -110,7 +110,7 @@
   - Identify unknowns, investigate further for clarification
 ---  
 ### Meeting #3: Identify Assumptions, Risks & Critical Dependencies  
-- **Attendee information**: Tech Lead, Design Lead, Product Manager
+- **Attendee information**: Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, Product Manager
 - **Expected Outcomes**:   
   - Aggregate a list of all current assumptions
   - Aggregate a list of all critical dependencies
@@ -121,7 +121,7 @@
   - Identify unknowns, investigate further for clarification
 ---  
 ### Meeting #4: Backlog Refinement  
-- **Attendee information**: Tech Lead, Tech Team, Design Lead, Design Team, Product Owner, Product Manager, other interested stakeholders
+- **Attendee information**: Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, Product Owner, Product Manager, other interested stakeholders
 - **Expected Outcomes**:  
   - Confirm backlog is exhaustive of current known requirements
   - Review backlog items to ensure each item is:
@@ -136,15 +136,15 @@
 ### Meeting #5: Determine Target Schedule for Delivery  
 - **Attendee information**: Tech Lead,  Design Lead, Product Manager
 - **Expected Outcomes**: 
-  - Align known backlog items with timeline for delivery
+  - Align known backlog items with roadmap and timeline for delivery
 - **Next steps:**
   - Identify unknowns, investigate further for clarification
 ---  
 ### Meeting #6: Planning for Sprint 1  
-- **Attendee information**: Tech Lead, Tech Team, Design Lead, Design Team, Product Owner, Product Manager, other interested stakeholders
+- **Attendee information**: Tech Lead, Design Lead, Product Owner, Product Manager, other interested and available stakeholders
 - **Expected Outcomes**: 
-  - Identify and communicate goal for Sprint 1
-  - Prioritize and align Sprint 1 workload in order to meet specified goal
+  - Identify and communicate goal for Sprint 1, ensure this aligns with roadmap
+  - Prioritize and align Sprint 1 workload to meet specified goal
 - **Next steps:**
   - Identify unknowns, investigate further for clarification
 ---  
